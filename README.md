@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boama17" alt="boama17" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript and React-Native**
+- 🌱 I’m currently learning **React-Native**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **all projects**
 
 - 🤝 I’m looking for help with **freelance connections**
 
